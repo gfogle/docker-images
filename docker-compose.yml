@@ -1,0 +1,6 @@
+version: "2.1"
+
+services:
+  phoenix_1.3.0_elixir_1.5.3:
+    build:
+      context: ./phoenix/phoenix_1.3.0_elixir_1.5.3
